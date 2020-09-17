@@ -1,0 +1,37 @@
+.Logo{
+    height: 60px;
+    width: 80px;
+    display: inline-flexbox;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.Navigation{
+    background-color: cornflowerblue;
+    height:100px;
+    width: 988px;
+}
+#text{
+    display: inline-flex;
+    font-family: sans-serif;
+    font-size: 20px;
+    vertical-align: top;
+    margin-top: 50px;
+    color: white;
+}
+#list{
+    display: inline-flex;
+    justify-content: space-between;
+    vertical-align: top;
+    margin-top: 42px;
+    color: white;
+    font-size: 13px;
+    font-family: sans-serif;
+    color: white;
+}
+.butt{
+    margin-left: 45px;
+    margin-right: 45px;
+    text-decoration: none;
+    color: white;
+    font-weight: 100px;
+}
